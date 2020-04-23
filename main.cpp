@@ -1,23 +1,6 @@
 #include <iostream>
 #include <sofa.h>
 
-typedef long double ld;
-
-double deg_to_rad(int deg,int min, int sec)
-{
-    /**
-     * Convert degrees, arcminutes, arcseconds to radians.
-     */
-    double rad = 0;
-    iauAf2a('+', deg, min, sec, &rad);
-    return rad;
-}
-
-double radDeg(double radian){
-    double pi = 3.14159;
-    return(radian * (180/pi));
-}
-
 int main()
 {
     /**
@@ -53,16 +36,5 @@ int main()
      * BoostC++ Output
      * rc: 10.6134 dc: 41.0938
      */
-
-
-//    int iy = 2020;
-//    int im = 4;
-//    int id = 23;
-//    double djm0 = 0;
-//    double djm = 0;
-//
-//    iauCal2jd(iy, im, id, &djm0, &djm);
-//
-//    std::cout << djm0 << " " << djm;
 
 }

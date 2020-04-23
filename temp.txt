@@ -42,4 +42,14 @@ int main()
 
     return 0;
 
+    //    int iy = 2020;
+    //    int im = 4;
+    //    int id = 23;
+    //    double djm0 = 0;
+    //    double djm = 0;
+    //
+    //    iauCal2jd(iy, im, id, &djm0, &djm);
+    //
+    //    std::cout << djm0 << " " << djm;
+
 }
