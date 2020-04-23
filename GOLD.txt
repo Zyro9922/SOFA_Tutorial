@@ -1,0 +1,12 @@
+//    double ra = 0.185441233;
+//    double dec = 0.7190757;
+//    double date1 = 2400000.5;
+//    double date2 = 58921;
+//
+//    double rc = -1;
+//    double dc = -1;
+//    double eo = -1;
+//
+//    iauAtic13(ra,dec,date1,date2,&rc,&dc,&eo);
+
+//    std::cout << "rc: " << rc <<" dc: " << dc << " eo: " << eo << std::endl;

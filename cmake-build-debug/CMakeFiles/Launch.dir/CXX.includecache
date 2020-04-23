@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alihasan/Documents/C++_Programs/Launch/main.cpp
+iostream
+-
+sofa.h
+-
+
+/Users/alihasan/Documents/GSOC/sofa/20190722/c/src/sofa.h
+sofam.h
+/Users/alihasan/Documents/GSOC/sofa/20190722/c/src/sofam.h
+math.h
+/Users/alihasan/Documents/GSOC/sofa/20190722/c/src/math.h
+
+/Users/alihasan/Documents/GSOC/sofa/20190722/c/src/sofam.h
+
