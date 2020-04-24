@@ -128,6 +128,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/alihasan/Documents/C++_Programs/Launch/helper.hpp">
+			<Option target="Executable"/>
+			<Option target="Launch"/>
+		</Unit>
 		<Unit filename="/Users/alihasan/Documents/C++_Programs/Launch/main.cpp">
 			<Option target="Executable"/>
 			<Option target="Launch"/>

@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/Users/alihasan/Documents/C++_Programs/Launch/helper.hpp
+iostream
+-
+cmath
+-
+
 /Users/alihasan/Documents/C++_Programs/Launch/main.cpp
 iostream
 -
 sofa.h
 -
+helper.hpp
+/Users/alihasan/Documents/C++_Programs/Launch/helper.hpp
 
 /Users/alihasan/Documents/GSOC/sofa/20190722/c/src/sofa.h
 sofam.h
